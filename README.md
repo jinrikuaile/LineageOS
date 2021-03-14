@@ -3,6 +3,7 @@
 
 使用aicp的device，vendor,kernel
 BUG：aicp的附加设置在Lineageos上无法使用，请忽略。
+
 下载链接： https://h5.cloud.189.cn/share.html#/t/YJRbaiiI7vI3
 
 
